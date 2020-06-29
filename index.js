@@ -11,7 +11,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coanimal ='cat'
-  return animal
+  return 'cat'
 }
 
 function add2(n) {
